@@ -45,7 +45,31 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 
 https://doc.qt.io/
 
-### 
+### 开源项目
+
+名称|地址|介绍
+:------- | :--------------- | :------------
+Clementine Music Player | [Clementine](https://github.com/clementine-player/Clementine) | 一个功能完善、跨平台的开源音乐播放器，非常适合用于学习如何开发媒体类应用，尤其是跨平台桌面应用,基于 Qt 框架开发，支持多种操作系统。
+qTox | [qTox](https://github.com/qTox/qTox) | 一个功能强大、开源的即时通讯（IM）客户端，基于 Tox 协议构建。它支持端到端加密、语音和视频通话、文件传输、群组聊天等功能
+TileMap地图编辑器 | [mapeditor](https://github.com/mapeditor/tiled) | 是一款非常流行的开源 2D 地图编辑器，广泛应用于游戏开发领域。
+WizQTClient | [WizQTClient](https://github.com/WizTeam/WizQTClient) | 专注于提供一个优秀的个人知识管理（PKM）解决方案
+DB Browser for SQLite | [DB4S](https://github.com/sqlitebrowser/sqlitebrowser) | 一个开源、跨平台的 SQLite 数据库可视化管理工具
+GoldenDict | [](https://github.com/goldendict/goldendict.git) | 一款功能强大、开源的跨平台词典查询工具，支持多种本地和在线词典格式，具备优秀的排版渲染能力
+QtAV | [QtAV](https://github.com/wang-bin/QtAV) | 一个基于 Qt 和 FFmpeg 的高性能跨平台多媒体播放库，旨在帮助开发者更轻松地构建功能强大的音视频播放器
+JQTools | [JQ](https://github.com/188080501/JQTools) | 一个基于 Qt 框架开发的开源小工具集合，专为 Qt 开发者设计
+shotcut | [shotcut](https://github.com/mltframework/shotcut) | 一款功能强大的开源视频编辑器，适用于 Windows、macOS 和 Linux 平台。
+Live Helper Chat | [Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat.git) | 这是一个基于 Web 的开源实时客服聊天系统。
+QupZilla | [qupzilla](https://github.com/QupZilla/qupzilla) | 一个基于 Qt WebEngine（或 QtWebKit）开发的轻量级、跨平台开源网页浏览器。
+Otter Browser | [otter-browser](https://github.com/OtterBrowser/otter-browser) | 一款基于 Qt WebEngine 的开源网页浏览器，旨在提供一个轻量级、可高度定制、功能齐全的现代浏览器替代方案
+CuteMarkEd | [CuteMarkEd](https://github.com/cloose/CuteMarkEd) | 一个使用 Qt 框架开发的开源 Markdown 编辑器，界面简洁、功能实用，支持实时预览和多种导出格式，是学习如何构建现代 Markdown 编辑器的理想项目
+Rythem | [Rythem](https://github.com/AlloyTeam/Rythem) | 一个由腾讯 AlloyTeam 开发的开源网络抓包与调试工具，可以看作是 Fiddler / Charles 的 Qt 版本实现
+NitroShare | [nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) | 一个开源的、基于局域网（LAN）的 跨平台文件传输工具，它允许你在本地网络中的设备之间快速、安全地共享和传输文件，无需依赖云服务或外部服务器
+ScreenCloud | [screencloud](https://github.com/olav-st/screencloud) | 一个开源的跨平台截屏工具，支持 Windows、macOS 和 Linux 系统
+Notes | [notes](https://github.com/nuttyartist/notes) | 一个使用 Qt 框架开发的开源记事本（Notepad）类桌面应用程序，界面简洁、功能实用，支持基本的文本编辑与文件管理功能
+Qwt | [qwt](https://github.com/opencor/qwt) | 一个历史悠久的 Qt 扩展库，专注于提供基于 Qt Widgets 的图形绘制控件
+QCustomPlot | [QCustomPlot](http://www.workslikeclockwork.com/) | 是专为 Qt 设计的轻量级、高性能绘图控件，单头文件实现，易于集成。
+SerialTool | [SerialTool](https://github.com/Skiars/SerialTool) | 一个跨平台的串口/网络调试工具。此工具支持串口调试助手、终端、波形显示和文件传输等功能。
+
 ---
 
 ## Qt 基础
