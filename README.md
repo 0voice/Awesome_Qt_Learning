@@ -1,5 +1,3 @@
-<img width="677" height="397" alt="image" src="https://github.com/user-attachments/assets/7645fe16-d915-4c71-9031-f1cc5a5187e8" /><h1 align="center"> Awesome Qt Learning </h1>
-
 <p align="center">
   🌟 本仓库为一个面向开发者的 Qt 学习资源导航
 </p>
