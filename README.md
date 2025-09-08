@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome Qt Learning </h1>
+<img width="677" height="397" alt="image" src="https://github.com/user-attachments/assets/7645fe16-d915-4c71-9031-f1cc5a5187e8" /><h1 align="center"> Awesome Qt Learning </h1>
 
 <p align="center">
   🌟 本仓库为一个面向开发者的 Qt 学习资源导航
@@ -19,7 +19,8 @@
 * [学习资料]()
   * [官方文档]()
   * [入门教程]()
-  * [书籍文章]()
+  * [书籍]()
+  * [文章]()
   * [开源项目]()
   * [视频课程]()
   * [面试题]()
@@ -29,6 +30,9 @@
   * [核心模块](#核心模块)
   * [高级主题](#高级主题)
   * [工具与生态](#工具与生态)
+* Qt 开发方向
+  * [Qt 桌面开发技术栈](#Qt 桌面开发技术栈)
+  * [Qt 嵌入式开发技术栈](#Qt 嵌入式开发技术栈)
 
 ---
 
@@ -43,7 +47,37 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 
 ### 官方文档
 
-https://doc.qt.io/
+| 项目类型 | 技术栈重点 | 推荐方向 |
+| :--- | :--- | :--- |
+|  | QML + C++、EGLFS、触摸控制、数据可视化 | 仪表盘、报警提示、工艺流程监控 |
+|  | MQTT、QML、本地存储、夜间模式 | 控制家电、离线缓存、远程同步 |
+|  | 波形绘制、SQLite、USB 存储、权限管理 | 心率监测、数据导出 PDF/CSV |
+|  | 手写识别、笔迹平滑、双缓冲绘图 | 教学演示、儿童教育产品 |
+|  | 有限状态机、二维码识别、支付集成 | 商业终端设备界面开发 |
+
+### 书籍
+
+| 书名 | 地址 |
+| :--- | :--- |
+| 0-vs 2019安装QT | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/0-vs%202019%E5%AE%89%E8%A3%85QT.pdf) |
+|  | []() |
+| 2-Effective STL中文版：50条有效使用STL的经验 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/2-Effective%20STL%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%9A50%E6%9D%A1%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8STL%E7%9A%84%E7%BB%8F%E9%AA%8C.pdf) |
+|  |  |
+| 4-C++网络编程 卷2 基于ACE和框架的系统化复用 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/4-C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%E5%8D%B72%20%E5%9F%BA%E4%BA%8EACE%E5%92%8C%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8C%96%E5%A4%8D%E7%94%A8.pdf) |
+|  |  |
+
+### 文章
+
+| 名称 | 地址 |
+| :--- | :--- |
+| qt creator系列教程 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/qt%20creator%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.pdf) |
+| Qt编写串口通信程序 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%E7%BC%96%E5%86%99%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1%E7%A8%8B%E5%BA%8F.pdf) |
+| Qt工程师进阶技术《23种设计模式》 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BF%9B%E9%98%B6%E6%8A%80%E6%9C%AF%E3%80%8A23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B.pdf) |
+| Qt对象模型 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf) |
+| Qt及Linux操作系统窗口设计 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%E5%8F%8ALinux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1.pdf) |
+| Qt参考手册 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf) |
+| Qt on Android 核心编程试读样章 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%20on%20Android%20%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E8%AF%95%E8%AF%BB%E6%A0%B7%E7%AB%A0.pdf) |
+| QT+FFmpeg4.x Windows开发环境搭建 | [PDF](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/QT%2BFFmpeg4.x%20Windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.pdf) |
 
 ### 开源项目
 
@@ -238,7 +272,334 @@ Qt 的生态系统中有很多优秀的第三方库，可以为你提供额外�
   * **KDChart (图表)**: 这是另一个专业的图表库，提供了丰富的图表类型和高度可定制化的功能，适合需要高性能、高质量图表显示的应用。
     
   * **QScintilla (代码编辑控件)**: 如果你正在开发一个像记事本、IDE 或代码编辑器那样的应用，QScintilla 可以为你提供一个功能完善、高性能的代码编辑控件，支持语法高亮、自动补全等功能。
-    
+
   * **Qt for Python (PySide6)**: 如果你更喜欢使用 Python 语言，那么 PySide6 提供了 Qt 的完整 Python 绑定。这使得你可以用 Python 的简洁语法来构建强大的 Qt 界面，同时仍能利用 Qt 背后强大的 C++ 性能。
 
 ---
+
+## Qt 开发方向
+
+从两大热门方向展开讲解，Qt 桌面开发和 Qt 嵌入式开发。每条路线均包含从基础语法到高级特性的完整技术栈，并结合现代 C++ 新特性与工程实践技巧，帮助你构建扎实的 Qt 开发能力。
+
+### ✅ 开发环境准备
+
+#### 操作系统选择
+
+- Windows、Linux、macOS 都支持 Qt 开发，根据项目需求和个人偏好选择合适的操作系统
+
+- 对于 Linux 用户，推荐使用 Ubuntu 或者 Fedora 等流行发行版，因其社区活跃度高，遇到问题更容易找到解决方案。
+
+#### 安装 Qt SDK
+- 访问 Qt 官网下载适合你操作系统的在线安装包或使用网盘里的离线安装包
+
+- 使用 Qt Maintenance Tool 进行组件管理（如添加/移除 Qt 版本、工具等）。
+
+- 推荐至少安装一个 LTS 版本的 Qt（长期支持版本），以及最新稳定版，以便能够覆盖更多的应用场景和技术特性。
+
+#### 集成开发环境（IDE）选择
+
+- 安装插件增强功能，例如 Git 插件、ClangCodeModel 提供更智能的代码补全。
+
+- Qt Creator：官方推荐的 IDE，集成了代码编辑器、调试器、UI 设计器等功能，非常适合 Qt 开发。
+
+- Visual Studio + Qt Visual Studio Tools: 如果你习惯使用 Visual Studio，可以通过安装 Qt Visual Studio Tools 插件来实现 Qt 开发。
+
+- CLion + CMake: JetBrains 的 CLion 支持通过 CMake 来构建 Qt 项目，适合那些喜欢 Jetbrains 生态系统的开发者。
+
+#### 配置编译器和构建系统
+
+- 根据所选平台安装相应的编译器（GCC、MSVC、Clang 等）。
+
+- 设置环境变量 PATH，确保命令行可以直接调用 qmake、cmake 等构建工具。
+
+- 学习如何编写 .pro 文件（qmake 构建系统）或者 CMakeLists.txt 文件（CMake 构建系统），并理解两者之间的差异与优缺点。
+
+#### 版本控制系统
+
+- 学习 Git 基础知识，掌握常用命令如 git clone, git pull, git push, git commit, git branch 等。
+
+- 配置 GitHub/GitLab 账号，了解如何创建仓库、提交代码、处理分支合并冲突等。
+
+- 使用 Git GUI 工具（如 SourceTree、GitKraken）提高工作效率。
+
+---
+
+### Qt 桌面开发技术栈
+
+#### 基础语言能力要求
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **auto** | C++11 | 自动类型推导，简化复杂类型声明 | 遍历 STL 容器时自动识别迭代器类型 |
+| **nullptr** | C++11 | 替代 NULL，提高空指针安全性 | 函数参数为指针时避免歧义 |
+| **范围 for 循环** | C++11 | 简化容器遍历语法 | 遍历 QList、QMap 等 Qt 容器 |
+| **Lambda 表达式** | C++11 | 匿名函数，用于信号连接或异步任务 | connect() 中直接编写槽函数逻辑 |
+| **智能指针** | C++11/14 | 自动内存管理，防止内存泄漏 | 封装资源如文件句柄、网络连接 |
+| **移动语义** | C++11 | 提升临时对象性能 | 返回大对象时避免拷贝 |
+| **constexpr** | C++11 | 编译期常量计算 | 构建编译期查找表或配置 |
+| **std::tuple** | C++11 | 多值返回结构体替代 | 存储多个不同类型的结果 |
+| **协程 (C++20)** | C++20 | 异步编程模型 | 实现异步 HTTP 请求、数据流处理 |
+
+#### Qt 核心模块（QtCore）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QObject 与元对象系统** | QObject | Qt 对象模型核心，支持信号与槽机制 | 控件通信、事件驱动编程 |
+| **Q_OBJECT 宏、moc** | QObject | 启用元对象功能，自动生成 moc 文件 | 自定义类按需继承 QObject 并加此宏 |
+| **信号与槽机制** | QObject | Qt 的核心通信机制 | 控件间数据更新、状态同步 |
+| **parent/child 机制** | QObject | 自动内存管理，父对象销毁子对象 | UI 组件嵌套管理 |
+| **deleteLater()** | QObject | 延迟删除对象，避免跨线程释放问题 | 在非主线程中安全删除控件 |
+| **QFile、QTextStream** | IO | 文件读写操作 | 日志记录、配置保存 |
+| **QDataStream** | IO | 二进制序列化工具 | 数据持久化、网络传输 |
+| **QDir/QFileInfo** | IO | 文件路径、属性访问 | 判断文件是否存在、获取修改时间 |
+| **QDateTime、QDate、QTime** | Core | 时间日期处理 | 记录日志时间戳、定时任务 |
+| **JSON 解析：QJsonDocument 等** | Core | 支持 JSON 数据解析与生成 | 接口交互、配置文件读取 |
+| **QList/QMap/QVector** | Core | Qt 自带容器类，优化了 GUI 使用场景 | 存储界面元素、状态映射 |
+| **QDebug/qWarning/qInfo** | Debug | 输出调试信息 | 开发阶段调试逻辑输出 |
+| **QLoggingCategory** | Debug | 分类控制日志输出级别 | 生产环境关闭部分日志减少开销 |
+| **QThread、QtConcurrent** | Thread | 多线程任务执行 | 图片加载、后台计算不阻塞 UI |
+
+#### 图形界面模块（QtGui）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QWindow** | Gui | 底层窗口抽象类，用于无 QWidget 的场景 | EGLFS、Wayland 下创建窗口 |
+| **QScreen** | Gui | 获取屏幕信息（分辨率、DPI、可用区域） | 多屏显示适配、布局调整 |
+| **QPlatformIntegration** | Gui | 平台适配接口，用于定制平台行为 | 自定义嵌入式平台渲染方式 |
+| **QImage、QPixmap** | Gui | 图像数据显示与绘制 | 图像处理、图标显示 |
+| **QPainter** | Gui | 2D 绘图引擎，支持抗锯齿、渐变等 | 自定义控件绘图、图表绘制 |
+| **QPen、QBrush** | Gui | 设置画笔样式、填充颜色 | 绘图细节控制 |
+| **QEvent、QMouseEvent** | Gui | 事件处理机制 | 实现鼠标拖拽、键盘快捷键 |
+| **QFont、QFontMetrics** | Gui | 字体设置与文本尺寸计算 | 文本排版、UI 自适应 |
+| **QTransform** | Gui | 图形变换矩阵（缩放、旋转） | 动画效果实现 |
+
+#### 控件与布局（QtWidgets）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QWidget** | Widgets | 所有控件基类 | 创建自定义控件 |
+| **QLabel、QPushButton、QRadioButton** | Widgets | 基础 UI 控件 | 表单设计、按钮点击 |
+| **QComboBox、QListWidget** | Widgets | 列表选择控件 | 下拉菜单、列表展示 |
+| **QGroupBox、QFrame** | Widgets | 容器控件，组织 UI 结构 | 界面分组与美化 |
+| **QHBoxLayout、QVBoxLayout** | Layout | 布局管理器，自动排列控件 | 自适应窗口大小变化 |
+| **QGridLayout** | Layout | 网格布局，适合表单布局 | 登录界面、配置面板 |
+| **QSpacerItem** | Layout | 布局占位符，控制控件间距 | 美化 UI 布局 |
+| **自定义控件** | Widgets | 继承 QWidget 或已有控件扩展功能 | 实现仪表盘、进度条等 |
+| **QPropertyAnimation** | Animation | 属性动画，实现平滑过渡 | 按钮弹跳、页面切换动画 |
+
+#### 多线程与并发（QtCore + QtConcurrent）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QThread** | Thread | 创建独立线程运行任务 | 长时间后台任务（如下载） |
+| **moveToThread** | Thread | 将对象移动到指定线程 | 网络请求、数据库访问 |
+| **QRunnable + QThreadPool** | Thread | 可复用线程池执行一次性任务 | 多个图片加载任务并发处理 |
+| **QtConcurrent::run** | Concurrent | 高级封装，简化异步调用 | 快速启动后台任务 |
+| **QFuture & QFutureWatcher** | Concurrent | 监听异步任务状态 | 显示任务进度条 |
+| **QMutex、QWaitCondition** | Thread | 线程同步机制 | 多线程共享资源保护 |
+| **QAtomicInt、QAtomicPointer** | Thread | 原子操作，线程安全 | 计数器、标志位设置 |
+
+#### 文件与数据流操作（QtCore）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QFile** | IO | 文件打开、读写、复制 | 本地配置文件、日志写入 |
+| **QTextStream** | IO | 文本格式读写，支持编码转换 | UTF-8、GBK 文件读写 |
+| **QDataStream** | IO | 二进制格式序列化/反序列化 | 保存用户数据、网络传输 |
+| **QSettings** | IO | 本地配置保存 | 用户偏好设置、窗口位置记忆 |
+| **QTemporaryFile** | IO | 创建临时文件，程序退出自动清理 | 缓存文件、中间结果存储 |
+| **ZIP 支持（第三方）** | IO | 文件压缩解压 | 导出项目包、备份数据 |
+
+#### 网络通信（QtNetwork）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QNetworkAccessManager** | Network | 发起 HTTP 请求 | 接口调用、REST API |
+| **QTcpSocket / QTcpServer** | Network | TCP 客户端/服务端通信 | 内部系统通信、远程控制 |
+| **QUdpSocket** | Network | UDP 通信 | 广播消息、实时数据传输 |
+| **QWebSocket** | Network | WebSocket 通信 | 实时聊天、推送通知 |
+| **QSslSocket** | Network | SSL/TLS 加密通信 | 安全登录、HTTPS 代理 |
+| **QHostInfo** | Network | DNS 查询 | 获取 IP 地址 |
+| **QNetworkProxy** | Network | 设置代理服务器 | 穿透防火墙、测试环境模拟 |
+
+#### 数据库支持（QtSql）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QSqlDatabase** | Sql | 连接数据库（SQLite、MySQL、PostgreSQL） | 本地缓存、用户数据存储 |
+| **QSqlQuery** | Sql | 执行 SQL 语句，支持参数绑定 | 数据增删改查 |
+| **QSqlTableModel** | Sql | 数据库模型绑定视图 | 表格控件自动刷新 |
+| **QSqlRelationalTableModel** | Sql | 支持外键关系映射 | 主从表数据绑定 |
+| **ORM（可选）** | Sql | 使用第三方库如 QtOrm 实现对象关系映射 | 简化数据库操作 |
+| **数据库连接池** | Sql | 管理多个数据库连接 | 高并发场景下的数据库访问优化 |
+
+#### 多媒体模块（QtMultimedia）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QSoundEffect** | Multimedia | 播放短音频文件 | 按钮点击音效、提示音 |
+| **QAudioOutput** | Multimedia | 音频播放组件 | 播放 MP3、WAV 文件 |
+| **QMediaPlayer** | Multimedia | 视频播放器 | 播放 MP4、AVI 视频 |
+| **QCamera** | Multimedia | 调用摄像头设备 | 视频采集、人脸识别 |
+| **QMediaRecorder** | Multimedia | 录制视频或音频 | 视频录制功能实现 |
+| **FFT 分析** | Multimedia | 音频分析与可视化 | 音乐可视化、频谱显示 |
+
+#### 浏览器嵌入（QtWebEngine）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QWebEngineView** | WebEngine | 内嵌浏览器控件 | 展示网页内容、在线帮助文档 |
+| **evaluateJavaScript** | WebEngine | 执行 JS 脚本 | 页面动态控制、数据提取 |
+| **QWebEngineUrlRequestInterceptor** | WebEngine | 拦截网页请求 | 过滤广告、替换资源 |
+| **QWebEngineCookieStore** | WebEngine | 管理 Cookie | 登录状态保持 |
+| **WebRTC 支持** | WebEngine | 音视频通信功能 | 实现实时视频会议功能 |
+
+---
+
+#### 插件系统（QtPlugin）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **插件接口设计** | Plugin | 使用纯虚类定义插件接口 | 插件框架设计 |
+| **Q_PLUGIN_METADATA** | Plugin | 注册插件元数据 | 动态加载插件 |
+| **QPluginLoader** | Plugin | 加载 DLL/Dylib 插件 | 实现热插拔机制 |
+| **插件部署** | Plugin | 构建插件目录结构 | 支持插件化架构 |
+| **插件管理** | Plugin | 实现插件注册中心 | 插件启用/禁用管理 |
+
+---
+
+#### 国际化与本地化（i18n）
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **tr() 函数** | i18n | 实现 UI 翻译 | 多语言支持 |
+| **lupdate 工具** | i18n | 提取翻译字符串生成 .ts 文件 | 自动生成翻译模板 |
+| **Linguist 工具** | i18n | 编辑 .ts 文件并生成 .qm | 翻译人员使用 |
+| **QTranslator** | i18n | 动态加载 .qm 文件 | 切换语言 |
+| **语言包管理** | i18n | 支持多语言切换、默认语言回退机制 | 国际市场产品发布 |
+
+---
+
+#### 项目工程与构建系统
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **.pro 文件** | Build | 使用 qmake 构建项目 | Windows/Linux/macOS 通用构建 |
+| **CMakeLists.txt** | Build | 使用 CMake 构建项目 | 更灵活跨平台项目构建 |
+| **Makefile 自动生成** | Build | qmake 生成 Makefile | Linux 下手动编译 |
+| **debug/release 构建** | Build | 构建不同版本 | 开发调试 vs 正式发布 |
+| **跨平台构建** | Build | Windows/Linux/macOS 构建差异处理 | 多平台统一代码库 |
+| **windeployqt/macdeployqt** | Deploy | 自动打包依赖库 | 发布桌面应用程序 |
+
+---
+
+#### 性能优化与调试工具
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **Valgrind** | Debug | 内存泄漏检测（Linux） | 内存错误排查 |
+| **Visual Leak Detector** | Debug | 内存泄漏检测（Windows） | Win32 应用调试 |
+| **Perf / VTune** | Debug | CPU/GPU 性能分析 | 查找性能瓶颈 |
+| **qDebug()、QLoggingCategory** | Debug | 输出调试信息 | 开发阶段调试逻辑输出 |
+| **Qt Test 模块** | Debug | 单元测试框架 | 自动化测试 |
+| **GDB / LLDB** | Debug | 调试器 | 断点调试、变量查看 |
+
+---
+
+### Qt 嵌入式开发技术栈
+
+#### 嵌入式系统基础
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **交叉编译环境搭建** | 系统配置 | 编译目标平台可执行程序 | 在 x86 PC 上编译 ARM 架构程序 |
+| **Buildroot / Yocto** | 系统配置 | 构建嵌入式 Linux 根文件系统 | 定制化嵌入式系统镜像 |
+| **U-Boot 启动流程** | Bootloader | 初始化硬件、加载内核 | 系统启动控制 |
+| **内核编译与裁剪** | OS | 配置设备驱动、启用功能模块 | 支持特定外设（如触摸屏） |
+| **文件系统管理** | OS | 搭建根文件系统（BusyBox） | 构建最小系统运行 Qt 应用 |
+| **sysfs/procfs/devtmpfs** | OS | 访问设备节点、系统信息 | 控制 GPIO、读取 CPU 温度 |
+| **systemd/init.d** | OS | 系统服务管理 | 设置开机启动 Qt 程序 |
+
+#### 硬件交互与驱动开发
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **GPIO 控制** | 外设驱动 | 控制引脚高低电平 | 控制 LED、按钮输入 |
+| **I2C/SPI/UART** | 外设驱动 | 串行通信协议 | 与传感器、显示屏通信 |
+| **tslib 触摸校准库** | 外设驱动 | 提供触摸屏支持 | 工业 HMI 设备 |
+| **DRM/KMS 显示管理** | 图形驱动 | 控制显示输出模式 | 多屏显示、分辨率设置 |
+| **Framebuffer 访问** | 图形驱动 | 直接操作显存 | 自定义渲染器调试 |
+| **用户空间驱动访问** | 驱动交互 | 通过 /dev 节点操作硬件 | USB 设备识别、音频播放 |
+
+#### 嵌入式图形系统与渲染引擎
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **EGLFS 插件** | Qt 平台插件 | 基于 EGL 的无窗口系统渲染 | Qt 应用直接渲染到 framebuffer |
+| **QWS ( Qt Window System )** | Qt 平台插件 | Qt3 遗留窗口系统，适用于旧设备 | 简单嵌入式 UI 界面 |
+| **OpenGLES 2.0/3.0** | 渲染引擎 | GPU 加速绘图管线 | 实现高性能动画和界面 |
+| **QPainter 渲染** | Qt 绘图 | CPU 渲染路径 | 低端设备或简单 UI |
+| **Weston/Wayland** | 窗口系统 | 替代 X11 的轻量级合成器 | 多窗口嵌入式应用 |
+| **DRM/KMS 支持** | 显示接口 | 控制显示输出 | 双屏显示、GPU 输出控制 |
+
+#### Qt 在嵌入式平台的移植与配置
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **Qt 源码交叉编译** | Qt 移植 | 编译适用于目标平台的 Qt 库 | 构建嵌入式 Qt SDK |
+| **configure 参数配置** | Qt 移植 | 设置交叉编译工具链、平台参数 | 指定 -xplatform 和 -device |
+| **裁剪 Qt 模块** | Qt 移植 | 减少不必要的模块依赖 | 减小最终镜像大小 |
+| **静态链接 vs 动态链接** | Qt 移植 | 选择打包方式 | 便于部署或节省内存 |
+| **EGLFS 插件配置** | Qt 平台 | 设置渲染后端 | 支持 GPU 加速 |
+| **输入设备配置** | Qt 平台 | 配置触摸屏、鼠标、键盘 | 支持多点触控手势 |
+| **QT_QPA_PLATFORM=eglfs** | Qt 运行时 | 指定平台插件 | 强制使用 EGLFS 启动 |
+
+#### Qt 嵌入式 GUI 开发技术栈
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **QWidget 基础控件** | Widgets | 快速实现传统 UI | 简单工业界面 |
+| **QML + C++ 混合开发** | QML | 高效构建动态界面 | 智能家居、仪表盘 |
+| **qmlRegisterType** | QML | 注册 C++ 类型供 QML 使用 | 数据模型绑定 |
+| **Q_INVOKABLE / Q_PROPERTY** | QML | 导出方法与属性 | 与 QML 交互 |
+| **触摸事件处理** | Input | 支持多点触控 | 手势识别、拖拽操作 |
+| **QGestureRecognizer** | Input | 自定义手势识别 | swipe、pinch、rotate |
+| **QTimer 替代 sleep()** | Core | 避免阻塞主线程 | 实现低功耗轮询机制 |
+| **动画与状态机** | Animation | 提升用户体验 | 页面切换、按钮反馈 |
+
+#### 资源管理与低功耗优化
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **内存占用优化** | Resource | 减少缓存、释放闲置资源 | 小内存设备上运行 |
+| **静态链接减少依赖** | Build | 减少运行时依赖项 | 更易部署到裸板设备 |
+| **背光控制** | Power | 控制屏幕背光亮度 | 降低功耗、延长电池寿命 |
+| **休眠唤醒机制** | Power | 支持系统挂起与恢复 | 智能手表、手持设备 |
+| **文件系统压缩** | Storage | 使用 SquashFS 或 OverlayFS | 减少 Flash 写入损耗 |
+| **日志分级输出** | Debug | 控制日志级别 | 生产环境减少 IO 操作 |
+
+#### 调试与部署技巧
+
+| 技术点 | 所属模块 | 作用与说明 | 典型应用场景 |
+| :--- | :--- | :--- | :--- |
+| **串口打印 qDebug 输出** | Debug | 查看 Qt 日志 | 无显示器调试 |
+| **GDB + gdbserver** | Debug | 远程调试嵌入式程序 | 定位崩溃、死锁问题 |
+| **strace/ltrace** | Debug | 跟踪系统调用 | 分析卡顿原因 |
+| **perf 工具** | Debug | 性能分析 | 查找 CPU 占用热点 |
+| **macdeployqt/windeployqt** | Deploy | 自动复制依赖库 | 打包嵌入式 Qt 应用 |
+| **AppImage / Flatpak** | Deploy | 跨平台部署方案 | 一次性打包发布 |
+
+---
+
+#### 实战项目建议
+
+| 项目类型 | 技术栈重点 | 推荐方向 |
+| :--- | :--- | :--- |
+| **工业人机界面 (HMI)** | QML + C++、EGLFS、触摸控制、数据可视化 | 仪表盘、报警提示、工艺流程监控 |
+| **智能家居控制面板** | MQTT、QML、本地存储、夜间模式 | 控制家电、离线缓存、远程同步 |
+| **医疗仪器界面** | 波形绘制、SQLite、USB 存储、权限管理 | 心率监测、数据导出 PDF/CSV |
+| **教育类电子白板** | 手写识别、笔迹平滑、双缓冲绘图 | 教学演示、儿童教育产品 |
+| **自动售货机 UI** | 有限状态机、二维码识别、支付集成 | 商业终端设备界面开发 |
+
+---
+
