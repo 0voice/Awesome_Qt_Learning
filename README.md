@@ -37,6 +37,7 @@
 ## 📖 简介
 
 Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软件、嵌入式系统、移动应用 等领域。
+
 本仓库整理了 系统化的学习资料、示例代码、工具与社区资源，帮助开发者更高效地学习和使用 Qt。
 
 ---
@@ -65,11 +66,11 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 
 | No. | 地址 |
 | :--- | :--- |
-| 0 | [0-vs 2019安装QT](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/0-vs%202019%E5%AE%89%E8%A3%85QT.pdf) |
+| 0 | [vs 2019安装QT](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/0-vs%202019%E5%AE%89%E8%A3%85QT.pdf) |
 | 1 | [PDF文件均需下载后才能打开]() |
-| 2 | [2-Effective STL中文版：50条有效使用STL的经验](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/2-Effective%20STL%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%9A50%E6%9D%A1%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8STL%E7%9A%84%E7%BB%8F%E9%AA%8C.pdf) |
+| 2 | [Effective STL中文版：50条有效使用STL的经验](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/2-Effective%20STL%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%9A50%E6%9D%A1%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8STL%E7%9A%84%E7%BB%8F%E9%AA%8C.pdf) |
 | 3 | [PDF文件均需下载后才能打开]() |
-| 4 | [4-C++网络编程 卷2 基于ACE和框架的系统化复用](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/4-C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%E5%8D%B72%20%E5%9F%BA%E4%BA%8EACE%E5%92%8C%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8C%96%E5%A4%8D%E7%94%A8.pdf) |
+| 4 | [C++网络编程 卷2 基于ACE和框架的系统化复用](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/4-C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%E5%8D%B72%20%E5%9F%BA%E4%BA%8EACE%E5%92%8C%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8C%96%E5%A4%8D%E7%94%A8.pdf) |
 | 5 | [PDF文件均需下载后才能打开]() |
 
 ### 文章
