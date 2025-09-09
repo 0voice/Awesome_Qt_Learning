@@ -113,9 +113,9 @@ SerialTool | [SerialTool](https://github.com/Skiars/SerialTool) | 一个跨平�
 
 ---
 
-## Qt 基础
+## 📑 Qt 学习指南
 
-### Qt 简介与安装
+### Qt 基础
 
 #### Qt 是什么，能做什么
 
