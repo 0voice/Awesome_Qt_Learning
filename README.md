@@ -60,7 +60,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 **桌面�
 
 **Qt GitHub**：[https://github.com/qt](https://github.com/qt)
 
-### 🌟 入门五讲
+### 🗂 入门五讲
 
 | No. | 地址 |
 | :--- | :--- |
