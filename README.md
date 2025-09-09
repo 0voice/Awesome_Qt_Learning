@@ -103,7 +103,7 @@ qTox | [qTox](https://github.com/qTox/qTox) | 一个功能强大、开源的即�
 TileMap地图编辑器 | [mapeditor](https://github.com/mapeditor/tiled) | 是一款非常流行的开源 2D 地图编辑器，广泛应用于游戏开发领域。
 WizQTClient | [WizQTClient](https://github.com/WizTeam/WizQTClient) | 专注于提供一个优秀的个人知识管理（PKM）解决方案
 DB Browser for SQLite | [DB4S](https://github.com/sqlitebrowser/sqlitebrowser) | 一个开源、跨平台的 SQLite 数据库可视化管理工具
-GoldenDict | [](https://github.com/goldendict/goldendict.git) | 一款功能强大、开源的跨平台词典查询工具，支持多种本地和在线词典格式，具备优秀的排版渲染能力
+GoldenDict | [goldendict](https://github.com/goldendict/goldendict.git) | 一款功能强大、开源的跨平台词典查询工具，支持多种本地和在线词典格式，具备优秀的排版渲染能力
 QtAV | [QtAV](https://github.com/wang-bin/QtAV) | 一个基于 Qt 和 FFmpeg 的高性能跨平台多媒体播放库，旨在帮助开发者更轻松地构建功能强大的音视频播放器
 JQTools | [JQ](https://github.com/188080501/JQTools) | 一个基于 Qt 框架开发的开源小工具集合，专为 Qt 开发者设计
 shotcut | [shotcut](https://github.com/mltframework/shotcut) | 一款功能强大的开源视频编辑器，适用于 Windows、macOS 和 Linux 平台。
