@@ -111,6 +111,78 @@ Qwt | [qwt](https://github.com/opencor/qwt) | 一个历史悠久的 Qt 扩展库
 QCustomPlot | [QCustomPlot](http://www.workslikeclockwork.com/) | 是专为 Qt 设计的轻量级、高性能绘图控件，单头文件实现，易于集成。
 SerialTool | [SerialTool](https://github.com/Skiars/SerialTool) | 一个跨平台的串口/网络调试工具。此工具支持串口调试助手、终端、波形显示和文件传输等功能。
 
+### 视频学习
+
+#### 国内大佬
+
+| No. | title | 地址 |
+| --- | --- | --- |
+| 1 | 000-Qt开发工程师课程学习指导及发展前景 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=1 |
+| 2 | 111-Windows平台Q开发t环境安装及配置 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=2 |
+| 3 | 222-Linux平台Q开发t环境安装及配置 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=3 |
+| 4 | 2-Visual Studio环境安装 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=4 |
+| 5 | 3-QVBoxLayout（垂直排列布局） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=5 |
+| 6 | 4-QHBoxLayout（水平排列布局） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=6 |
+| 7 | 5-Qt开发布局--QGridLayout（网格排列布局） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=7 |
+| 8 | 6-搞懂Qt开发《Qt工程项目管理技术》 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=8 |
+| 9 | 7-Qt5_6信号与槽机制项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=9 |
+| 10 | 7-Qt开发基础控件（13种专用控件）--001 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=10 |
+| 11 | 7-Qt开发基础控件（15种专用控件）--002 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=11 |
+| 12 | 7-Qt开发基础控件（15种专用控件）--003 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=12 |
+| 13 | 8-Qt开发高级控件（Tree View控件）--001 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=13 |
+| 14 | 8-Qt开发高级控件（Tree Widget控件）--002 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=14 |
+| 15 | 9-Qt开发高级控件（List View控件和Plain Text Edit控件）--001 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=15 |
+| 16 | 9-Qt开发高级控件（List View控件和Plain Text Edit控件）--002 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=16 |
+| 17 | 9-Qt开发高级控件（List View控件）--003 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=17 |
+| 18 | 9-Qt开发高级控件（List View控件）--004 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=18 |
+| 19 | 10-Qt开发高级控件（Table Widget控件） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=19 |
+| 20 | 11-Qt开发高级控件（Table View控件） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=20 |
+| 21 | 12-Qt开发高级控件（Tab Widget控件） | https://www.bilibili.com/video/BV1E6sKeTEJF?p=21 |
+| 22 | 13-Qt开发必用《QMessageBox消息框》详解 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=22 |
+| 23 | 14-Qt开发项目《布局管理3个类》详解1 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=23 |
+| 24 | 14-Qt开发项目《布局管理3个类》详解2 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=24 |
+| 25 | 15-Qt进程技术《QML动画特效》详解1 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=25 |
+| 26 | 15-Qt进程技术《QML动画特效》详解2 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=26 |
+| 27 | 15-Qt进程技术《数据可视化》详解 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=27 |
+| 28 | 15-Qt进程技术《正则QRegExp技术》详解1 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=28 |
+| 29 | 15-Qt进程技术《正则QRegExp技术》详解2 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=29 |
+| 30 | 15-Qt进阶技术《多线程实战应用》详解 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=30 |
+| 31 | 16-Qt进阶技术《OpenCV视频采集技术》详解 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=31 |
+| 32 | 17-Qt进阶技术《TCP_UDP协议编程》详解 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=32 |
+| 33 | 21-Qt开发【WPS Office 2016个人版软件】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=33 |
+| 34 | 22-Qt开发【腾讯QQ2022客户端软件】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=34 |
+| 35 | 23-Qt开发【Android手机锁屏软件】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=35 |
+| 36 | 24-Qt开发【Android电池充电》项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=36 |
+| 37 | 25-Qt开发【汽车3D中控仪表盘】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=37 |
+| 38 | 26-Qt开发【MP4视频播放器】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=38 |
+| 39 | 27-Qt开发【获取电脑MAC及IP地址】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=39 |
+| 40 | 28-Qt开发【MP3音乐播放器搜索引擎】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=40 |
+| 41 | 29-Qt开发【用户管理权限】项目实战1 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=41 |
+| 42 | 29-Qt开发【用户管理权限】项目实战2 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=42 |
+| 43 | 30-Qt开发【基于TCP协议-客户端与服务器架构聊天系统】项目实战1 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=43 |
+| 44 | 30-Qt开发【基于TCP协议-客户端与服务器架构聊天系统】项目实战2 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=44 |
+| 45 | 31-Qt开发【获取文件系统属性】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=45 |
+| 46 | 32-Qt开发【SQL结合Qt实现增删改查】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=46 |
+| 47 | 33-Qt开发【图形视图架构相册浏览器】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=47 |
+| 48 | 34-Qt开发【极速文件传输工具】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=48 |
+| 49 | 35-Qt开发【QML实现交通信号灯】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=49 |
+| 50 | 36-Qt开发【酒店管理系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=50 |
+| 51 | 37-Qt开发【俄罗斯方块游戏】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=51 |
+| 52 | 38-Qt开发【学生管理系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=52 |
+| 53 | 39-Qt开发【腾讯QQ客户端--图像剪切功能】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=53 |
+| 54 | 40-Qt开发【磁盘管理系统】 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=54 |
+| 55 | 41-Qt开发【天气预报系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=55 |
+| 56 | 42-Qt开发【系统项目菜单栏_工具栏】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=56 |
+| 57 | 43-Qt开发CRM【汽车销售管理系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=57 |
+| 58 | 44-Qt开发【时间服务器架构系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=58 |
+| 59 | 45-Qt开发【动态时钟系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=59 |
+| 60 | 46-Qt开发【射击游戏--飞机大战】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=60 |
+| 61 | 47-Qt开发【图片浏览器系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=61 |
+| 62 | 48-Qt开发【基于Linux平台客户端与服务器】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=62 |
+| 63 | 49-Qt开发【商品库存管理系统】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=63 |
+| 64 | 50-Qt开发【经典推箱子游戏】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=64 |
+| 65 | 51-Qt开发【TCP_UDP协议网络调试助手 2.0】项目实战 | https://www.bilibili.com/video/BV1E6sKeTEJF?p=65 |
+
 ---
 
 ## 📑 Qt 学习指南
