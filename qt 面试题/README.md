@@ -1,8 +1,4 @@
 
-### 2023年最新整理，200道qt开发面试内容集锦，含网络，文件系统，数据库，自定义控件，视频讲解，文档。
-
----
-
 
 ##### [1、讲述Qt信号槽机制与优势与不足](https://github.com/0voice/qt_interview_reference/blob/main/1%E3%80%81%E8%AE%B2%E8%BF%B0Qt%E4%BF%A1%E5%8F%B7%E6%A7%BD%E6%9C%BA%E5%88%B6%E4%B8%8E%E4%BC%98%E5%8A%BF%E4%B8%8E%E4%B8%8D%E8%B6%B3.md)
 ##### [2、Qt信号和槽的本质是什么](https://github.com/0voice/qt_interview_reference/blob/main/2%E3%80%81Qt%E4%BF%A1%E5%8F%B7%E5%92%8C%E6%A7%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88.md)
@@ -205,31 +201,6 @@
 ##### [199、deque底层实现原理？](https://github.com/0voice/qt_interview_reference/blob/main/199%E3%80%81deque%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%EF%BC%9F.md)
 ##### [200、左值引用与右值引用区别？右值引用意义？](https://github.com/0voice/qt_interview_reference/blob/main/200%E3%80%81%E5%B7%A6%E5%80%BC%E5%BC%95%E7%94%A8%E4%B8%8E%E5%8F%B3%E5%80%BC%E5%BC%95%E7%94%A8%E5%8C%BA%E5%88%AB%EF%BC%9F%E5%8F%B3%E5%80%BC%E5%BC%95%E7%94%A8%E6%84%8F%E4%B9%89%EF%BC%9F.md)
 
-
-<br/>
-<br/>
-<h3 >零领工作</h3> 
-
----
-
-##### 实时提供，每周发布北京，上海，广州，深圳，杭州，南京，合肥，武汉，长沙，重庆，成都，西安，厦门的c/c++，golang方向的招聘岗位信息。 包含校招，社招，实习岗位， 面经，八股，简历
-
-<img src="https://img.0voice.com/public/0e59910091576beaebe20f303357edf7.jpg" alt="零领工作" style="width:300px;height:300px;">
-
-<br/>
-<br/>
-
-
-## 鸣谢
-
-##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。【排名规则：按照patch提交时间排序】
-
-<a href="https://github.com/wangbojing">
-    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
-</a> 
-<a href="https://github.com/linxi09">
-    <img src="https://avatars1.githubusercontent.com/u/127097626?s=400&v=4" width="40px">
-</a> 
 
   
 
