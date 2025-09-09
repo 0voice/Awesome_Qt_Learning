@@ -120,6 +120,8 @@ Notes | [notes](https://github.com/nuttyartist/notes) | 一个使用 Qt 框架�
 Qwt | [qwt](https://github.com/opencor/qwt) | 一个历史悠久的 Qt 扩展库，专注于提供基于 Qt Widgets 的图形绘制控件
 QCustomPlot | [QCustomPlot](http://www.workslikeclockwork.com/) | 是专为 Qt 设计的轻量级、高性能绘图控件，单头文件实现，易于集成。
 SerialTool | [SerialTool](https://github.com/Skiars/SerialTool) | 一个跨平台的串口/网络调试工具。此工具支持串口调试助手、终端、波形显示和文件传输等功能。
+QOwnNotes | [QOwnNotes](https://github.com/pbek/QOwnNotes) | 基于 Qt 的笔记应用
+CutiePi | [cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) | Qt 嵌入式案例
 
 ### 视频学习
 
