@@ -22,7 +22,7 @@
   * [开源项目](#开源项目)
   * [视频课程](#视频课程)
   * [面试题](#面试题)
-* [Qt 学习指南]()
+* [Qt 学习指南](#)
   * [Qt 基础](#Qt基础)
   * [界面开发](#界面开发)
   * [核心模块](#核心模块)
@@ -44,7 +44,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 
 ## 📚 学习资料
 
-### Qt 官方资料
+### 🍀 Qt 官方资料
 
 **Qt 官网**：[https://www.qt.io/](https://www.qt.io/)
 
@@ -52,7 +52,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 
 **Qt GitHub**：[https://github.com/qt](https://github.com/qt)
 
-### 入门五讲
+### 🌟 入门五讲
 
 | No. | 地址 |
 | :--- | :--- |
@@ -62,7 +62,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 | 4 | [第004讲 实践Qt 5模板库项目中应用](https://github.com/0voice/Awesome_Qt_Learning/blob/main/%E5%85%A5%E9%97%A8%E4%BA%94%E8%AE%B2/%E7%AC%AC004%E8%AE%B2%20%E5%AE%9E%E8%B7%B5Qt%205%E6%A8%A1%E6%9D%BF%E5%BA%93%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%BA%94%E7%94%A8.pdf) |
 | 5 | [第005讲 Qt开发常用算法及控件原理](https://github.com/0voice/Awesome_Qt_Learning/blob/main/%E5%85%A5%E9%97%A8%E4%BA%94%E8%AE%B2/%E7%AC%AC005%E8%AE%B2%20Qt%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95%E5%8F%8A%E6%8E%A7%E4%BB%B6%E5%8E%9F%E7%90%86.pdf) |
 
-### 书籍
+### 📙 书籍
 
 | No. | 地址 |
 | :--- | :--- |
@@ -73,7 +73,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 | 4 | [C++网络编程 卷2 基于ACE和框架的系统化复用](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/4-C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%E5%8D%B72%20%E5%9F%BA%E4%BA%8EACE%E5%92%8C%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8C%96%E5%A4%8D%E7%94%A8.pdf) |
 | 5 | [PDF文件均需下载后才能打开]() |
 
-### 文章
+### 📰 文章
 
 | No. | 地址 |
 | :--- | :--- |
@@ -86,7 +86,7 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 桌面软�
 | 7 | [Qt on Android 核心编程试读样章](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/Qt%20on%20Android%20%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E8%AF%95%E8%AF%BB%E6%A0%B7%E7%AB%A0.pdf) |
 | 8 | [QT+FFmpeg4.x Windows开发环境搭建](https://github.com/0voice/Awesome_Qt_Learning/blob/main/paper/QT%2BFFmpeg4.x%20Windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.pdf) |
 
-### 开源项目
+### 🌐 开源项目
 
 名称|地址|介绍
 :------- | :--------------- | :------------
