@@ -77,11 +77,15 @@ Qt 是一个跨平台的应用程序开发框架，被广泛应用于 **桌面�
 | No. | 地址 |
 | :--- | :--- |
 | 0 | [vs 2019安装QT](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/0-vs%202019%E5%AE%89%E8%A3%85QT.pdf) |
-| 1 | [PDF文件均需下载后才能打开]() |
+| 1 | [C++语言程序设计（第3版）](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/1-C%2B%2B%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf) |
 | 2 | [Effective STL中文版：50条有效使用STL的经验](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/2-Effective%20STL%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%9A50%E6%9D%A1%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8STL%E7%9A%84%E7%BB%8F%E9%AA%8C.pdf) |
-| 3 | [PDF文件均需下载后才能打开]() |
+| 3 | [C++多线程编程实战](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/3-C%2B%2B%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf) |
 | 4 | [C++网络编程 卷2 基于ACE和框架的系统化复用](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/4-C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%E5%8D%B72%20%E5%9F%BA%E4%BA%8EACE%E5%92%8C%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8C%96%E5%A4%8D%E7%94%A8.pdf) |
-| 5 | [PDF文件均需下载后才能打开]() |
+| 5 | [windows网络编程](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/5-windows%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.pdf) |
+| 6 | [Linux Qt4窗口程序设计](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/6-Linux%20Qt4%E7%AA%97%E5%8F%A3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf) |
+| 7 | [Qt Creator快速入门](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/7-Qt%20Creator%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf) |
+| 8 | [C++ Qt设计模式（第2版）](https://github.com/0voice/Awesome_Qt_Learning/blob/main/books/C%2B%2B%20%20Qt%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf) |
+
 
 ### 📰 文章
 
